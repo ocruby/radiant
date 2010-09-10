@@ -14,3 +14,4 @@ spec/datasets/tmp
 rerun.txt
 Gemfile.lock
 .bundle/
+db/schema.rb
